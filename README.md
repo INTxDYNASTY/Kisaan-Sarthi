@@ -1,2 +1,2 @@
-# Kisaan-Sarthi
-AI-powered platform for predicting crop yields using machine learning and agricultural data
+# AI Powered Crop Yield Prediction And Optimization
+Xebia ANN Project
